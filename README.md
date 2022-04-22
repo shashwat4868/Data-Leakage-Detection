@@ -9,7 +9,7 @@ These methods do not rely on alterations of the released data (e.g., watermarks)
 * Front End - 
   * HTML5, CSS3, JavaScript, Bootstrap4
 * Backend -
-  * PHP, MySQL
+  * PHP, MySQL (XAMPP Server)
 * Code Editor -
   * VS Code/Notepad++/Sublime/Atom
 * OS -
