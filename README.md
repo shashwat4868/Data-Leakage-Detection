@@ -15,3 +15,9 @@ These methods do not rely on alterations of the released data (e.g., watermarks)
   * Windows/Mac/Linux
 * Browser -
   * Chrome/Safari/Firefox
+
+### Steps to Run the Project:
+1. Clone the Repo to your system and unzip
+2. Enable XAMPP Server
+3. Create a database named "data_leakage"
+4. Run the project on any browser.
